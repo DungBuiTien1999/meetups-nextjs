@@ -22,6 +22,9 @@ import MeetupList from '../components/meetups/MeetupList';
 //   },
 // ];
 
+// https://meetups-nextjs-liard.vercel.app/
+// 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
+
 function HomePage(props) {
   return (
     <Fragment>
